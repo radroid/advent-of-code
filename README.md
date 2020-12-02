@@ -1,5 +1,7 @@
 # Advent of Code 2020 Challenge
-This year is the first time I am taking on this challenge. Message me on discord (Username: RaDroid#5675) if you want to join the private leaderboard!
+This year is the first time I am taking on this challenge. Know more about the challenge here: [Advent of Code About](https://adventofcode.com/)
+
+Message me on discord (Username: RaDroid#5675) if you want to join the private leaderboard!
 Connect on other social media platforms if more comfortable with that. [LinkedIn](https://www.linkedin.com/in/raj-dholakia/)
 
 ![Github Follow](https://img.shields.io/github/followers/radroid?label=Follow&style=social) 
